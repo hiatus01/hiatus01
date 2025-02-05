@@ -12,9 +12,6 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,ts,react,next,flask,nodejs,html,css,go,rust"/>
 </p>
-
-https://discord.cyberious.xyz
-
 <br>
 
 <p align="center">
